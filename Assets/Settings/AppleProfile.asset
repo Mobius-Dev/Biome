@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 718a99542e93eb444a0998379e9a2b37, type: 3}
+  m_Name: AppleProfile
+  m_EditorClassIdentifier: 
+  growthRate: 2
+  decayThreshold: 400
+  initialColor: {r: 0.6156863, g: 1, b: 0.031372547, a: 0}
+  matureColor: {r: 1, g: 0.11707889, b: 0, a: 0}
+  nutrition: 5
+  edibilityList: 00000000
